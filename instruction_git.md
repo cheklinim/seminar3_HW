@@ -134,6 +134,25 @@ VSСode дает возможность выбрать какое изменен
 
 После этого создать репозиторий нажатием на кнопку "Create repository"
 
+Далее, в GitHub, необходимо выбрать из 3-х вариантов создания репозитория:
+
+1. ...or create a new repository on the command line.
+* echo "# name_repo >> README.md 
+* git init
+* git add README.md
+* git commit -m "first commit"
+* git branch -M main
+* git remote add origin https://github.com/ ...
+* git push -u origin main
+
+2. ...or push an exiting repository from the command line.
+* git remote add origin https://github.com/ ...
+* git branch -M main
+* git push -u origin main
+
+3. ...or import code from another repository
+* import code
+
 ### Загрузка изменений в удаленный репозиторий
 
 Для того, чтобы загрузить изменения в удаленный репозиторий необходимо закомитить внесенные изменения и далее выполнить команду:
