@@ -134,3 +134,11 @@ VSСode дает возможность выбрать какое изменен
 5. Добавить (при необходимости) файл .gitignore выбрав язык программирования
 6. Выбрать (при необходимости) лицензию открытого ПО
 7. Нажать на кнопку "Create repository"
+
+Далее, перейти в окно VS Studio и в терминале по порядку ввести команды из github раздел "…or push an existing repository from the command line"
+
+    1. git remote add origin https://github.com/Никнейм аккаунта github/Название созданного репозитория в github.git 
+    2. git branch -M main(если в терминале используется главная ветка master, то изменить main на master)
+    3. git push -u origin main (если в терминале используется главная ветка master, то изменить main на master)
+
+Таким образом, VS Studio будет сопряжен с github для внесения последующих изменений в сформированные файлы
