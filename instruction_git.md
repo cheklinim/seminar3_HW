@@ -168,3 +168,18 @@ VSСode дает возможность выбрать какое изменен
 
 Или обычной командой `git push` если ветка была ранее создана
 
+### Создание Pull Request
+
+Для создания Pull Request, после отправки изменений в удаленный репозиторий команды `git push`  
+Необходимо перейти на github, в нашем проекте\форке подсветится информация о добавлении изменений в ветку и будет предложено создать новый Pull Request  
+
+![Repo Name](https://www.earthdatascience.org/images/earth-analytics/git-version-control/github-create-new-pull-request.png)
+
+После перехода в наш потенциальный пулл реквест, мы должны указать ветку, куда и откуда отправляем изменения, заполнить примечание (указать изменения и цель данных изменений) и нажать кнопку `Create pull Request`  
+
+![Repo Name](https://www.earthdatascience.org/images/earth-analytics/git-version-control/github-submit-pull-request-title.png)
+
+Владелец удаленного репозитория получит наш пулл реквест, сможет просмотреть список наших коммитов и примет решение отклонить его или добавить ваши правки в ветку, где так же сможет оставить к нему комментарий
+
+![Repo Name](https://user-images.githubusercontent.com/18062981/29696869-e3dc57d2-898e-11e7-85da-1d49bf20a9ee.png)
+
