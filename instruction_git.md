@@ -133,6 +133,11 @@ VSСode дает возможность выбрать какое изменен
     git remote add origin ссылка
     git push -u origin main
  
+2. Интеграция существующего файла на github.com
+
+    git remote add origin ссылка
+    git branch -M main
+    git push -u origin main
 
 ### Загрузка изменнений в удалённый репозиторий
 
