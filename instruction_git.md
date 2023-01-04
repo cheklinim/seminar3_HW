@@ -133,3 +133,7 @@ VSСode дает возможность выбрать какое изменен
 
     git branch -M <branchName> 
 
+Остается только отправить проект в удаленный репозиторий командой:
+
+    git push -u origin <masterBranchName>
+    
