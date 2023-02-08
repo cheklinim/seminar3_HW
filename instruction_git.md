@@ -137,4 +137,25 @@ Git clone - делает клон (копию) удаленного репози
  ### 4.1 Регистрация в Git Hub 
 
  Для регистрации в Git Hub нужно добавить свою почту и вести пароль. 
-  
+
+ ### 4.2 Работа с Git Hub
+
+1. Зайти на страницу "greate new repository"
+
+2. На ячейке "repository name" пишем уникальное название: На пример "seminar3"
+
+3. Выбераем открытый или закрытый 
+
+4. Нажимаем кнопку "create repository"
+
+5. Если создается новое то выбираем  "if you’ve done this kind of thing before or create a new repository on the command line"
+ если добовляется готовое то "or push an existing repository from the command line"
+
+6. Копируем по строке и запускаем по очереди все 3 строки у себя на Visual Studio
+
+7. Обновляем страницу в Git Hub 
+
+8. Наш репозиторий добавлен в Git Hub.
+
+
+
