@@ -135,3 +135,11 @@ git remote add origin https://github.com/username/myproject.git
     git clone
 
 
+
+# Обмен данными
+
+Для выгрузки содержимого локального репозитория в удаленный репозиторий, используем команду:
+
+    git push
+
+
