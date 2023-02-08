@@ -143,3 +143,9 @@ git remote add origin https://github.com/username/myproject.git
     git push
 
 
+
+При работе с репозиториями, удаленно на GitHub, для переноса информации в локальный репозиторий, используем команду:
+
+    git pull
+
+
