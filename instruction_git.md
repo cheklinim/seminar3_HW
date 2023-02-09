@@ -125,3 +125,12 @@ Then use sent link to open remote repository.
 
 For ex:
 [Homework](https://github.com/cheklinim/seminar3_HW).
+
+## Forking like a lifestyle
+
+Someone sometime decided that it was very funny to call copying a **fork**. 
+
+So if you need to copy remote repository to your private account on Github you need to click on **Fork** button.
+
+The repository creation window will open after clicking.
+
