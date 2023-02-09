@@ -178,3 +178,17 @@ To do it easely just use from oppened repository:
     git pull
 
 And all new remote changes will update your local file.
+
+## Push-request to source repository
+
+You made a lot of good changes, awesome commits and other stuff. Now you need to sent it back to creator and suggest them to him.
+
+So you getting back to you remote repository on your github account. You can see there green button with text: *Compare & pull request*. Press it.
+
+Now you can see *Comparing changes* window.
+
+Here you should add title and description to your changes. Be careful, you need to explain all your changes clearly.
+
+After you did that press green button with text *Create pull request*.
+
+*My pull request* window will open and you can see it status and some comments.
