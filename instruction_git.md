@@ -161,3 +161,11 @@ After the process will be ended open folder of downloaded repository with VSC. (
 
 Now you can create new branch and start doing your changes.
 
+## **Push**ing your changes back to github
+
+After some new commits added to processed file you need to apply them back to remote repository on your github account. Just use:
+
+    git push
+
+Now you can check your remote repository on github to make sure it worked.
+
