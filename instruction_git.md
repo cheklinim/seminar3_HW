@@ -115,9 +115,9 @@ VSСode дает возможность выбрать какое изменен
 
     git branch -d <имя_ветки>
 
-## Homework starts right here
+# Homework starts right here
 
-## Working with remote repository
+## Working with remote repository walkthrough
 
 To start your work with remote repository you must create new account on [github.com](https://github.com/).
 
@@ -146,3 +146,18 @@ In opened window you can select next options:
 After choosing you must press **Create fork**.
 
 Then window with forked repository will open.
+
+## Copying forked repository to your local PC with **CLONE**
+
+The next step to be a professional programmer will be downloading forked repository to your local PC.
+
+So in opened window press **<> CODE** button and copy selected link.
+
+Then open Visual studio code, open terminal and use:
+
+    git clone (https:\\link_here)
+
+After the process will be ended open folder of downloaded repository with VSC. (default in windows: C:\Users\User\Repository_name).
+
+Now you can create new branch and start doing your changes.
+
