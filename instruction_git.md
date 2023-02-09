@@ -115,4 +115,13 @@ VSСode дает возможность выбрать какое изменен
 
     git branch -d <имя_ветки>
 
-## Homework starting right here
+## Homework starts right here
+
+## Working with remote repository
+
+To start your work with remote repository you must create new account on [github.com](https://github.com/).
+
+Then use sent link to open remote repository. 
+
+For ex:
+[Homework](https://github.com/cheklinim/seminar3_HW).
