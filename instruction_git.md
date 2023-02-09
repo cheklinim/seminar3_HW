@@ -169,3 +169,12 @@ After some new commits added to processed file you need to apply them back to re
 
 Now you can check your remote repository on github to make sure it worked.
 
+## **Pull**ing last changes from remote repository
+
+If you adding changes to one remote repository from diffrent PCs or you working with it by a team of developers you will need to often upgrate your local file.
+
+To do it easely just use from oppened repository:
+
+    git pull
+
+And all new remote changes will update your local file.
