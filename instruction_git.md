@@ -132,5 +132,17 @@ Someone sometime decided that it was very funny to call copying a **fork**.
 
 So if you need to copy remote repository to your private account on Github you need to click on **Fork** button.
 
-The repository creation window will open after clicking.
+The fork creation window will open after clicking.
 
+## Fork creation window
+
+In opened window you can select next options:
+
+1. Select owner
+2. Change repository name
+3. Add some description
+4. Copying only main branch flag
+
+After choosing you must press **Create fork**.
+
+Then window with forked repository will open.
