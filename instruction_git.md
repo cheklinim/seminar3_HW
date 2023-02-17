@@ -138,3 +138,12 @@ In a local repository, in the terminal enter the following commands:
     git branch -M <name local branch>
     git push -u origin <name local branch>
 
+### Git Clone
+
+The command is used to create a copy of a specific repository or branch within a repository.
+
+When you clone a repository, you don't get one file, like you may in other centralized version control systems. By cloning with Git, you get the entire repository - all files, all branches, and all commits
+
+Clone (download) a repository that already exists on GitHub, including all of the files, branches, and commits:
+
+    git clone [url]
