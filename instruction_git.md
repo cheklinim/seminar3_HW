@@ -120,3 +120,13 @@ VSСode дает возможность выбрать какое изменен
 Remote repositories are versions of your project saved on the Internet. You can have several remote repositories.
 
 Repository management includes both the ability to add new repositories and the ability to delete outdated repositories, as well as the ability to manage various remote branches, declare them tracked or not, and so on.
+
+### Create a repositories
+
+To put your project up on GitHub, you will need to create a repository for it to live in.
+
+1. In the upper-right corner of any page, use the "__+__" drop-down menu, and select __New repository__
+2. Type a short, memorable name for your repository. Optionally, add a description of your repository.
+3. Choose a repository visibility.
+4. Click Create repository.
+
