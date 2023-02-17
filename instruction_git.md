@@ -147,3 +147,13 @@ When you clone a repository, you don't get one file, like you may in other centr
 Clone (download) a repository that already exists on GitHub, including all of the files, branches, and commits:
 
     git clone [url]
+
+### Git Pull
+
+git pull updates your current local working branch, and all of the remote tracking branches. It's a good idea to run git pull regularly on the branches you are working on locally.
+
+Without git pull, (or the effect of it,) your local branch wouldn't have any of the updates that are present on the remote.
+
+Update your local working branch with commits from the remote, and update all remote tracking branches:
+
+    git pull
