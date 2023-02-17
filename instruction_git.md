@@ -130,3 +130,11 @@ To put your project up on GitHub, you will need to create a repository for it to
 3. Choose a repository visibility.
 4. Click Create repository.
 
+Next you can push an existing repository from the command line.
+
+In a local repository, in the terminal enter the following commands:
+
+    git remote add origin <url remote repositories>
+    git branch -M <name local branch>
+    git push -u origin <name local branch>
+
