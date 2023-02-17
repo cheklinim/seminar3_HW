@@ -157,3 +157,10 @@ Without git pull, (or the effect of it,) your local branch wouldn't have any of 
 Update your local working branch with commits from the remote, and update all remote tracking branches:
 
     git pull
+
+### Git push
+
+Uploads all local branch commits to the corresponding remote branc:
+
+    git push
+
