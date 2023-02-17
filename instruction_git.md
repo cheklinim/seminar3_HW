@@ -164,3 +164,15 @@ Uploads all local branch commits to the corresponding remote branc:
 
     git push
 
+### Fork a repositories
+
+A fork is a new repository that shares code and visibility settings with the original “upstream” repository. Forks are often used to iterate on ideas or changes before they are proposed back to the upstream repository, such as in open source projects or when a user does not have write access to the upstream repository. 
+
+1. On GitHub.com, navigate to the repository.
+2. In the top-right corner of the page, click __Fork__.
+3. Select an owner for the forked repository.
+4. By default, forks are named the same as their upstream repositories. You can change the name of the fork to distinguish it further.
+5. Optionally, add a description of your fork.
+6. Choose whether to copy only the default branch or all branches to the new fork. For many forking scenarios, such as contributing to open-source projects, you only need to copy the default branch. By default, only the default branch is copied.
+7. Click Create fork.
+
