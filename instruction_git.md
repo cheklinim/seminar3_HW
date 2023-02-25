@@ -137,3 +137,13 @@ VSСode дает возможность выбрать какое изменен
 
 Клонирует удаленный репозиторий на локальный компьютер в папку `.\mycoolgit` по http-ссылке.
 
+### Просмотр списка настроенных удаленных репозиториев
+
+    git remote
+
+Использование ключа `-v` позволяет увидеть адреса привязанные к репозиторию.
+
+    git remote -v
+    origin  https://github.com/expample/mycoolgit (fetch)
+    origin  https://github.com/expample/mycoolgit (push)
+
