@@ -147,3 +147,10 @@ VSСode дает возможность выбрать какое изменен
     origin  https://github.com/expample/mycoolgit (fetch)
     origin  https://github.com/expample/mycoolgit (push)
 
+
+### Добавление удаленного репозитория
+
+    git remote add origin https://github.com/expample/mycoolgit.git
+
+Добавление удаленного репозитория под именем `origin` к существующему локальному репозиторию.
+
