@@ -132,3 +132,13 @@ Github - это сервис от Microsoft для ведения проэкто
         git remote add origin <Ссылка на репозиторий>
         git branch -M master
         git push -u origin master
+
+### Копирование репозитория из Github
+
+Для того, чтобы скопировать рипозиторий с Github на свой ПК, нужно ввести команду:
+
+        git cione <Ссыдка на репозиторий>
+
+
+
+
